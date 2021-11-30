@@ -1,4 +1,4 @@
-Class Jenkin
+class Jenkin
 {
 public static void main(String[] args){
 
